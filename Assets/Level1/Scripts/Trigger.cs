@@ -8,7 +8,7 @@ public class Trigger : MonoBehaviour
     public GameObject rock_hit;
     public GameObject rock_win;
 
-    // Start is called before the first frame update
+    // Start is called before the first frame update.
     void Start()
     {
         
